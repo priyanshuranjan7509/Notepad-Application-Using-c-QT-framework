@@ -1,1 +1,1 @@
-# Notepad-Application-Using-c-QT-framework
+# Notepad-Application-Using-cpp-QT-framework
